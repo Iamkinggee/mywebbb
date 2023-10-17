@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'poppins';
+    
+    
+     background-color: rgb(24, 23, 23);
+}
+
+.logo{
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+
+    
+}
+/* footer */
+.logo2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-left: 245px;
+    margin-top: 30px;
+
+}
+.copy{
+    margin-left:240px ;
+    /* font-size: 19px; */
+    /* padding-bottom:15px; */
+}
