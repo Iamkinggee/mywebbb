@@ -6,7 +6,7 @@ import { useTypewriter, Cursor} from 'react-simple-typewriter'
 
 const TypeWriter = () => {
     const [text] = useTypewriter({
-        words: [ 'mobile Apps/>','websites/>','softwares/>' ],
+        words: [  'mobile Apps/>', 'Websites/>', 'Softwares/>'],
         loop: {},
         typeSpeed: 120,
         deleteSpeed: 90,
@@ -16,8 +16,8 @@ const TypeWriter = () => {
 
   return (
 
-        <h1 className='m-50 md:text-[25px] text-[20px] font-italic font-mono  text-blue-700'>{sym}I build 
-        <span className=' font-mono'>{' '}
+        <h1 className='text-xl w-full  m-auto justify-center items-center font-[LexendZetta] font-light text-center md:text-start'>{sym}I Build 
+        <span className=' font-[LexendZetta] text-xl font-light'>{' '}
             {text} 
         </span>
         

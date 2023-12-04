@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/godsentokoose/static/css/main.2d623295.css",
+    "main.js": "/godsentokoose/static/js/main.2789da64.js",
+    "static/media/Port.mp4": "/godsentokoose/static/media/Port.e392d2c3d30df5f271ad.mp4",
+    "static/media/G2.gif": "/godsentokoose/static/media/G2.06ec94235cca9474cf0f.gif",
+    "static/media/G3.gif": "/godsentokoose/static/media/G3.cf0b52e8f334dc713297.gif",
+    "static/media/DP.png": "/godsentokoose/static/media/DP.6d1f338556ab307ec90a.png",
+    "static/media/MyPhoto3.png": "/godsentokoose/static/media/MyPhoto3.8abfa9e4d7f578aa751c.png",
+    "static/media/TD.png": "/godsentokoose/static/media/TD.3f59aa713ee01d1797f5.png",
+    "index.html": "/godsentokoose/index.html",
+    "main.2d623295.css.map": "/godsentokoose/static/css/main.2d623295.css.map",
+    "main.2789da64.js.map": "/godsentokoose/static/js/main.2789da64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d623295.css",
+    "static/js/main.2789da64.js"
+  ]
+}

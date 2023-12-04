@@ -2,29 +2,167 @@
 @tailwind components;
 @tailwind utilities;
 
+ /* body{
+ 
+    background-image:url('assets/BG.jpg') ;
+     background-color: rgba(0, 0, 0, 1);
+    background-blend-mode: overlay; 
+
+    background-position: center;
+    background-repeat: no-repeat; 
+
+}  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family:LexendZetta;
+    src: url(../public/LexendZetta-ExtraBold.ttf);
+    font-weight:bold;
+}
+@font-face {
+    font-family:LexendZetta;
+    src: url(../public/LexendZetta-Regular.ttf);
+    font-weight:regular;
+}
+@font-face {
+    font-family:LexendZetta;
+    src: url(../public/LexendZetta-Thin.ttf);
+    font-weight:thin;
+}
+@font-face {
+    font-family:LexendZetta;
+    src: url(../public/LexendZetta-Light.ttf);
+    font-weight:Light;
+}
+@font-face {
+    font-family:LexendZetta;
+    src: url(../public/LexendZetta-SemiBold.ttf);
+    font-weight:semibold;
+}
+@font-face {
+    font-family:LexendZetta;
+    src: url(../public/LexendZetta-ExtraLight.ttf);
+    font-weight:extralight;
+}
+@font-face {
+    font-family:LexendZetta;
+    src: url(../public/LexendZetta-Medium.ttf);
+    font-weight:medium;
+}
+
+.LexendZetta{
+    font-family: LexendZetta;
+}
+
+
+:root{
+    --whitee-color:rgb(255, 255, 255);
+    --blue:rgb(255, 255, 255);
+    --title:rgb(156, 156, 156);
+    --background-color: rgb(39, 39, 39);
+    
+} 
+
+.light-theme-variables{
+    --whity-color:rgb(255, 255, 255);
+    --background-color:white;
+    --blue:rgb(0, 0, 175);
+    --title:rgb(126, 126, 126);
+    
+}
+
+.light-theme-variables p{
+color: rgb(32, 32, 32);
+}
+
+/* .light-theme-variables h1{
+    color:black;
+} */
+
+.light-theme-variables #text-white{
+    color:rgb(255, 255, 255);
+}
+
+.light-theme-variables #text-blue{
+ color:blue;
+}
+
+.light-theme-variables #text-black{
+ color:rgb(37, 37, 37);
+}
+.light-theme-variables #text-title{
+ color:rgb(117, 117, 117);
+}
+
+
 body{
-    font-family: 'poppins';
-    
-    
-     background-color: rgb(24, 23, 23);
+    background-color: var(--background-color);
 }
 
-.logo{
-    color: rgb(255, 255, 255);
-    font-family: 'Courier New', Courier, monospace;
 
+
+
+
+
+
+
+.active-text{
+    color: #ffffff;
+    font-weight: bold;
+    border-top: white 3px;
+}
+
+.inactive-text{
+    color: #f0f0f0ee;
+}
+.active{
+    color: #ffffff;
+   
+}
+
+.active:active{
+    border-top: 3px white;
+}
+
+.inactive{
+    color: #f0f0f0ee;
+}
+
+
+/* theme-Toggle component */
+.switch-mode{
+    height: 2rem;
+    width: 3.5rem;
+    background: rgb(78, 78, 78);
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 1rem;
+    cursor: pointer;
+    padding: 0.25rem;
+
+}
+
+.switch-mode >div{
+    background: white;
+    height: 1.4rem;
+    width: 1.4rem;
+    border-radius: 50%;
+}
+
+.light{
+    justify-content: flex-end;
+}
+
+/* dark theme */
+/* --clr-bg-text-color:; */
+
+/* .light-theme-variables{
+    background-color: white;
+    color: red;
     
-}
-/* footer */
-.logo2{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 30px;
-    margin-left: 245px;
-    margin-top: 30px;
-
-}
-.copy{
-    margin-left:240px ;
-    /* font-size: 19px; */
-    /* padding-bottom:15px; */
-}
+} */

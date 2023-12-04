@@ -1,55 +1,103 @@
 import React from 'react'
-import Nav from './screens/Nav'
-import Hero1 from './screens/Hero1'
-import MyStack from './Components/MyStack'
-import Portfolio from './Components/Portfolio'
-import Services1 from './screens/Services1'
-import About3 from './screens/Hero1'
-import Footer from './screens/Footer'
+// import React, { Children }  from 'react'
+import NavBar from './components/NavBar'
+import Logo from './components/Logo'
+import {  BrowserRouter as Router} from 'react-router-dom';
+// import FloatingBg from './components/FloatingBg'
+import Pages from './Pages';
+// import ReactGA from "react-ga4";
+// import React, { Children } from 'react'
+// import { ThemeProvider } from './components/DarkAndLight/ThemeContext';
+// import {ThemeProvider, useTheme} from './components/DarkAndLight/ThemeContext'
 
-import Reviews from './Components/Reviews'
-import About1 from './screens/About1'
-import Footer1 from './screens/Footer1'
-import Footer2 from './screens/Footer2'
-import Projects from './screens/Projects'
-import {BrowserRouter, Routes, Route} from 'react-router-dom'
-import ContactForm from './screens/ContactForm'
-import ArrowCircleUp from './screens/ArrowCircleUp'
-import ArrowCircleDown from './screens/ArrowCircleDown'
-import ValForm from './screens/ValForm'
-import TodoProject from '../src/screens/ProjectsFolder/TodoProject'
-import Data from './screens/ProjectsFolder/Data'
-import TechStack from './screens/TechStack'
-
-
-
-
+// const TRACKING_ID = "G-5F7RMBE2C2"
+// ReactGA.initialize(TRACKING_ID);
+// const App = ({Children}) => {
 const App = () => {
+  
+ 
   return (
-    <div>
-      <Nav/>
-      <ArrowCircleDown/>
-      <Hero1/>
-      <About1/>
-      <TechStack/>
-      <Services1/>
-      {/* <Projects/> */}
-    <TodoProject/>
-    <Data/>
-      
-      <Footer1/>
-      < ArrowCircleUp/>
-      <Footer2/>
-      {/* <ValForm/> */}
-      {/* <ContactForm/> */}
-
-       
 
 
 
-
-    {/* <Toaster /> */}
+  
+    <div> 
+        <Router> 
+          <Logo/>     
+        <Pages/>    
+        <NavBar/>      
+      </Router>   
     </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//     <>
+//     <div> 
+      
+// <>
+// <FloatingBg/>
+// {Children}
+// </> 
+//         <Router>
+//         <Logo/>
+
+//         <>
+//         <Pages/>   
+//         </>
+
+//         <NavBar/>
+//       </Router>   
+//     </div>
+// </>
+
+
+
+
+
+    // <div>  
+
+    //   <>
+    //     <FloatingBg/>
+    //      {Children}
+    //      </>
+  
+    //     <Router>
+    //     <Logo/>
+        
+    //     <>
+    //     <Pages/>
+      
+    //      </>
+
+    //      <NavBar/>
+    //     </Router>
+ 
+    // </div>
+   
+    
   )
 }
 
