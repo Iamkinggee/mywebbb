@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/godsentokoose/static/css/main.2d623295.css",
-    "main.js": "/godsentokoose/static/js/main.2789da64.js",
-    "static/media/Port.mp4": "/godsentokoose/static/media/Port.e392d2c3d30df5f271ad.mp4",
-    "static/media/G2.gif": "/godsentokoose/static/media/G2.06ec94235cca9474cf0f.gif",
-    "static/media/G3.gif": "/godsentokoose/static/media/G3.cf0b52e8f334dc713297.gif",
-    "static/media/DP.png": "/godsentokoose/static/media/DP.6d1f338556ab307ec90a.png",
-    "static/media/MyPhoto3.png": "/godsentokoose/static/media/MyPhoto3.8abfa9e4d7f578aa751c.png",
-    "static/media/TD.png": "/godsentokoose/static/media/TD.3f59aa713ee01d1797f5.png",
-    "index.html": "/godsentokoose/index.html",
-    "main.2d623295.css.map": "/godsentokoose/static/css/main.2d623295.css.map",
-    "main.2789da64.js.map": "/godsentokoose/static/js/main.2789da64.js.map"
+    "main.css": "/godsentokooseweb/static/css/main.f22327aa.css",
+    "main.js": "/godsentokooseweb/static/js/main.f8468a1d.js",
+    "static/media/Port.mp4": "/godsentokooseweb/static/media/Port.e392d2c3d30df5f271ad.mp4",
+    "static/media/G2.gif": "/godsentokooseweb/static/media/G2.06ec94235cca9474cf0f.gif",
+    "static/media/G3.gif": "/godsentokooseweb/static/media/G3.cf0b52e8f334dc713297.gif",
+    "static/media/DP.png": "/godsentokooseweb/static/media/DP.6d1f338556ab307ec90a.png",
+    "static/media/MyPhoto3.png": "/godsentokooseweb/static/media/MyPhoto3.8abfa9e4d7f578aa751c.png",
+    "static/media/LexendZetta-Light.ttf": "/godsentokooseweb/static/media/LexendZetta-Light.f2b1b4be76b9a07eeb8e.ttf",
+    "static/media/LexendZetta-SemiBold.ttf": "/godsentokooseweb/static/media/LexendZetta-SemiBold.93b799ee2d66af38306c.ttf",
+    "static/media/LexendZetta-Medium.ttf": "/godsentokooseweb/static/media/LexendZetta-Medium.52dce270a1cf82c256ef.ttf",
+    "static/media/LexendZetta-ExtraBold.ttf": "/godsentokooseweb/static/media/LexendZetta-ExtraBold.3bc8925fea457d740715.ttf",
+    "static/media/LexendZetta-ExtraLight.ttf": "/godsentokooseweb/static/media/LexendZetta-ExtraLight.86eefe4b47ebecd68d84.ttf",
+    "static/media/LexendZetta-Regular.ttf": "/godsentokooseweb/static/media/LexendZetta-Regular.789d28f0a5f7a75ae04a.ttf",
+    "static/media/LexendZetta-Thin.ttf": "/godsentokooseweb/static/media/LexendZetta-Thin.d19d12ddf59230242926.ttf",
+    "static/media/TD.png": "/godsentokooseweb/static/media/TD.3f59aa713ee01d1797f5.png",
+    "index.html": "/godsentokooseweb/index.html",
+    "main.f22327aa.css.map": "/godsentokooseweb/static/css/main.f22327aa.css.map",
+    "main.f8468a1d.js.map": "/godsentokooseweb/static/js/main.f8468a1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d623295.css",
-    "static/js/main.2789da64.js"
+    "static/css/main.f22327aa.css",
+    "static/js/main.f8468a1d.js"
   ]
 }
