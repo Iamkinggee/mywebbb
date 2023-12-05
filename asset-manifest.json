@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mywebbb/static/css/main.2e33af0c.css",
+    "main.js": "/mywebbb/static/js/main.df565dd1.js",
+    "static/media/Port.mp4": "/mywebbb/static/media/Port.e392d2c3d30df5f271ad.mp4",
+    "static/media/G2.gif": "/mywebbb/static/media/G2.06ec94235cca9474cf0f.gif",
+    "static/media/G3.gif": "/mywebbb/static/media/G3.cf0b52e8f334dc713297.gif",
+    "static/media/DP.png": "/mywebbb/static/media/DP.6d1f338556ab307ec90a.png",
+    "static/media/MyPhoto3.png": "/mywebbb/static/media/MyPhoto3.8abfa9e4d7f578aa751c.png",
+    "static/media/LexendZetta-Light.ttf": "/mywebbb/static/media/LexendZetta-Light.f2b1b4be76b9a07eeb8e.ttf",
+    "static/media/LexendZetta-SemiBold.ttf": "/mywebbb/static/media/LexendZetta-SemiBold.93b799ee2d66af38306c.ttf",
+    "static/media/LexendZetta-Medium.ttf": "/mywebbb/static/media/LexendZetta-Medium.52dce270a1cf82c256ef.ttf",
+    "static/media/LexendZetta-ExtraBold.ttf": "/mywebbb/static/media/LexendZetta-ExtraBold.3bc8925fea457d740715.ttf",
+    "static/media/LexendZetta-ExtraLight.ttf": "/mywebbb/static/media/LexendZetta-ExtraLight.86eefe4b47ebecd68d84.ttf",
+    "static/media/LexendZetta-Regular.ttf": "/mywebbb/static/media/LexendZetta-Regular.789d28f0a5f7a75ae04a.ttf",
+    "static/media/LexendZetta-Thin.ttf": "/mywebbb/static/media/LexendZetta-Thin.d19d12ddf59230242926.ttf",
+    "static/media/TD.png": "/mywebbb/static/media/TD.3f59aa713ee01d1797f5.png",
+    "index.html": "/mywebbb/index.html",
+    "main.2e33af0c.css.map": "/mywebbb/static/css/main.2e33af0c.css.map",
+    "main.df565dd1.js.map": "/mywebbb/static/js/main.df565dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e33af0c.css",
+    "static/js/main.df565dd1.js"
+  ]
+}
