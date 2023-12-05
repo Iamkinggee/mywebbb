@@ -19,7 +19,7 @@ const Portfolio = () => {
     
     text-[30px] sm:text-center md:text-[50px] font-[LexendZetta]  text-center md:text-center 
     pt-20  'id='text-title'>Portfolio</h1>
-    <p className='pb-20  text-center font-light md:text-[12px] text-[10px] text-white font-[LexendZetta]'>These are some of my latest Projects.</p>
+    <p className='pb-20  text-center font-light md:text-[15px] text-[10px] text-white font-[LexendZetta]'>These are some of my latest Projects.</p>
 
 
 {/* first Project */}
@@ -42,7 +42,7 @@ const Portfolio = () => {
 
 
             <div className='mt-4 text-center md:text-start justify-center items-center'>
-              <Link to='https://www.iamkinggee.github.io/MYPORTFOLIO-WEBSITE/'  target='_blank'>
+              <Link to='https://iamkinggee.github.io/MYPORTFOLIO-WEBSITE/'  target='_blank' rel='noopener noreferrer'>
               <button className='border-2 border-blue-700 p-3  font-[LexendZetta] font-semibold w-[300px] bg-blue-600 text-white md:text-[14px] text-[11px]'>Discover</button>
               </Link>
   
@@ -86,7 +86,7 @@ const Portfolio = () => {
 
 
             <div className='mt-4 text-center md:text-start justify-center items-center'>
-              <Link to='https://www.iamkinggee.github.io/TODO-APP/'  target='_blank'>
+              <Link to='https://iamkinggee.github.io/TODO-APP/' target='_blank' rel='noopener noreferrer'>
               <button className='  p-3 font-[LexendZetta] font-semibold w-[300px] bg-blue-600 text-white md:text-[14px] text-[11px]'>Discover</button>            
               </Link>
 
@@ -174,9 +174,9 @@ const Portfolio = () => {
 
 
             <div className='mt-4 text-center md:text-start justify-center items-center'>
-              <Link to='https://www.iamkinggee.github.io/MYPORTFOLIO-WEBSITE/' target='_blank'> 
+              {/* <Link to='https://www.iamkinggee.github.io/MYPORTFOLIO-WEBSITE/' target='_blank' rel='noopener noreferrer'>  */}
               <button className='border-2 border-blue-700 p-3  font-[LexendZetta] font-semibold w-[300px] bg-blue-600 text-white md:text-[14px] text-[11px]'>Discover</button>
-              </Link>
+              {/* </Link> */}
 </div>
 
             </Slide>

@@ -38,7 +38,7 @@ const ContactPage = () => {
 
          <div className='grid md:grid-cols-2 w-full  items-center justify-center   '>
 
-<div className=' md:w-full w-60'>
+<div className=' md:w-full'>
 <Slide left>
  <Form/>
 </Slide>
@@ -51,7 +51,7 @@ const ContactPage = () => {
 
 <div className='   pb-5 font-[LexendZetta] font-semibold text-[15px] text-white ' >
  <Slide right>
-<p className='md:text-[15px] text-[10px] font-light font-[LexendZetta] text-center text-blue-500'><span  className='text-white ' id='text-blue'>EMAIL: 
+<p className='md:text-[16px] text-[12px] font-light font-[LexendZetta] text-center text-blue-500'><span  className='text-white ' id='text-blue'>EMAIL: 
 <br />
 </span> iamgodsentt@gmail.com</p>
 

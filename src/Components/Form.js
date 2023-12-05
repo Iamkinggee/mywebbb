@@ -87,7 +87,7 @@ function Form(){
   <div className='w-full '>
       <form onSubmit={handleSubmit} 
       ref={form}
-      className='w-full text-center items-center justify-center m-auto  '>
+      className='w-[400px] text-center items-center justify-center m-auto  '>
         <div className='w-full px-auto m-auto justify-center items-center'>
        
           <input

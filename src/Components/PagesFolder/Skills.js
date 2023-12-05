@@ -21,7 +21,7 @@ const Skills = () => {
          pt-20
          ' id='text-title'>TechStack</h1>
      
-            <p className='pb-5 py-2 text-start  text-white font-[LexendZetta] text-[12px]'>I'm Proficient in but, <br /> not limited to these   Technologies.</p>
+            <p className='pb-5 py-2 text-start  text-white font-[LexendZetta] md:text-[15px] text-[10px]'>I'm Proficient in but, <br /> not limited to these   Technologies.</p>
             </Slide>
         <div className='flex  pt-10 gap-10 pb-5 font-[LexendZetta]  font-light  text-blue-500 text-[15px] ' id='text-blue' >
             <div >

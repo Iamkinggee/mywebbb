@@ -18,7 +18,7 @@ const HomePage = () => {
     navigate('/contact2');
   };
   return (
-   <>
+   
     <div className=' w-full  h-screen text-black font-[poppins] m-auto'>
         <div className='w-full grid md:grid-cols-2  max-w-[1000px] items-center justify-center  h-full m-auto '>
          <div className='m-auto md:pt-0 pt-20 '>  
@@ -35,18 +35,20 @@ const HomePage = () => {
             <div className='font-[LexendZetta] font-bold text-blue-500 text-center md:text-start'    > 
             <TypeWriter/>
              </div>
-
+             </Slide>
+             
             <div className='mt-4 justify-center items-center m-auto text-center md:text-start'>
-        
-            <button className='border-2 border-blue-600 p-3 mt-3 font-semibold w-[300px] rounded bg-opacity-95 text-white cursor-pointer font-[LexendZetta] font-Light md:text-[14px] text-[11px] ' onClick={handlePageChange} id='text-black'>Lets Talk</button>            
+            <Slide right>
+            <button className='border-2 border-blue-600 p-3 mt-3 font-semibold w-[300px] rounded bg-opacity-95 text-white cursor-pointer font-[LexendZetta] font-Light md:text-[14px] text-[11px] ' onClick={handlePageChange} id='text-black'>Lets Talk</button> 
+            </Slide>           
             </div>
-            </Slide>
+            
          </div>
 
         </div>
 
     </div>
-    </>
+  
   )
 }
 
