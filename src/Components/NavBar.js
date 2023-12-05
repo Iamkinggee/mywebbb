@@ -1,57 +1,10 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import {BsTelephone,BsTelephoneFill,BsGearFill,BsGear} from 'react-icons/bs'
+import {BsTelephone,BsGear} from 'react-icons/bs'
 import {GoFileDirectory,GoHome,FileDirectoryFill} from 'react-icons/go'
 import{AiOutlineUser} from 'react-icons/ai'
-import {GoFileDirectory,GoFileDirectoryFill} from 'react-icons/go'
+
 import{FaRegUser,FaUser} from 'react-icons/fa'
-import { GoHome } from "react-icons/go";
-
-
-// const YourComponent = () => {
-//   const isActive = true; // Set this to true when the button is active
-
-//   return (
-//     <Link to="/about">
-//       <button
-//         className={`relative group focus:outline-none ${
-//           isActive ? 'border-t-2 border-white' : ''
-//         }`}
-//       >
-//         <FaUser
-//           className="w-5 h-5 mb-2 text-gray-500 dark:text-gray-400 group-hover:text-blue-600 dark:group-hover:text-white"
-//           aria-hidden="true"
-//         />
-//         <span className="text-sm text-gray-500 dark:text-gray-400 group-hover:text-blue-600 dark:group-hover:text-white text-[10px]">
-//           About
-//         </span>
-//       </button>
-//     </Link>
-//   );
-// };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 const NavBar = () => {
