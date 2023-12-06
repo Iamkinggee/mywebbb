@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mywebbb/static/css/main.2e33af0c.css",
-    "main.js": "/mywebbb/static/js/main.df565dd1.js",
+    "main.css": "/mywebbb/static/css/main.798b726d.css",
+    "main.js": "/mywebbb/static/js/main.0c5f4904.js",
     "static/media/Port.mp4": "/mywebbb/static/media/Port.e392d2c3d30df5f271ad.mp4",
     "static/media/G2.gif": "/mywebbb/static/media/G2.06ec94235cca9474cf0f.gif",
     "static/media/G3.gif": "/mywebbb/static/media/G3.cf0b52e8f334dc713297.gif",
@@ -16,11 +16,11 @@
     "static/media/LexendZetta-Thin.ttf": "/mywebbb/static/media/LexendZetta-Thin.d19d12ddf59230242926.ttf",
     "static/media/TD.png": "/mywebbb/static/media/TD.3f59aa713ee01d1797f5.png",
     "index.html": "/mywebbb/index.html",
-    "main.2e33af0c.css.map": "/mywebbb/static/css/main.2e33af0c.css.map",
-    "main.df565dd1.js.map": "/mywebbb/static/js/main.df565dd1.js.map"
+    "main.798b726d.css.map": "/mywebbb/static/css/main.798b726d.css.map",
+    "main.0c5f4904.js.map": "/mywebbb/static/js/main.0c5f4904.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e33af0c.css",
-    "static/js/main.df565dd1.js"
+    "static/css/main.798b726d.css",
+    "static/js/main.0c5f4904.js"
   ]
 }
