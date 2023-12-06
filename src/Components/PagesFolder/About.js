@@ -26,7 +26,7 @@ const About = () => {
 
          <div className='mx-auto text-white'>
         <Slide left>
-         <img src={MyPhoto3} alt="/" className='w-[400px] ' loading='lazy'/>
+         <img src={MyPhoto3} alt="photo of Godsent" className='w-[400px] ' loading='lazy'/>
          </Slide>
          </div>
          <div className='  pb-[100px] font-mono'>

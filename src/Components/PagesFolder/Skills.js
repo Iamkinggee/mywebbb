@@ -11,7 +11,7 @@ const Skills = () => {
         <div className='w-full grid md:grid-cols-2  max-w-[1000px] items-center justify-center  h-full m-auto '>
 
          <div className='m-auto  '>
-            <Slide left><img src={G2} loading='lazy' alt="/" className='w-[300px] md:w-full pt-20 ' /></Slide> 
+            <Slide left><img src={G2} loading='lazy' alt="pc-two gif" className='w-[300px] md:w-full pt-20 ' /></Slide> 
          </div>
          <div className='  pb-[120px] '>
             <Slide right>

@@ -23,7 +23,7 @@ const HomePage = () => {
         <div className='w-full grid md:grid-cols-2  max-w-[1000px] items-center justify-center  h-full m-auto '>
          <div className='m-auto md:pt-0 pt-20 '>  
          <Slide left>
-         <img src={G3} alt="/" className='w-[300px] md:w-full' loading='lazy'/>
+         <img src={G3} alt="pc gif" className='w-[300px] md:w-full' loading='lazy'/>
          </Slide>
          </div>
          
